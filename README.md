@@ -1,2 +1,1 @@
-# Praktika.1.Voldyrev
-Praktika1
+# StudyMake
